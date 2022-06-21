@@ -28,7 +28,7 @@ came up with the idea of making a recipe generator.
 - **User** inputs list of available cooking utensils.
 - **App** returns a list of possible meals to choose from.
 
-##*User Stories*
+## *User Stories*
 
 1. As a user, I want to be able to add a food item to the list of available food items.
 2. As a user, I want to be able to add a cooking utensil to the list of available cooking utensils.
@@ -42,7 +42,7 @@ came up with the idea of making a recipe generator.
 10. As a user, I want to be able to load my previously saved inputted lists of food and cooking utensils (user info).
 
 
-##*Phase 4: Task 2*
+## *Phase 4: Task 2*
 
 ![img.png](data/EventLogSample.png)
 
@@ -50,7 +50,7 @@ came up with the idea of making a recipe generator.
 
 ![img.png](data/EventLogSample2.png)
 
-##*Phase 4: Task 3*
+## *Phase 4: Task 3*
 
 *Reflection*
 
