@@ -1,0 +1,23 @@
+{
+    "cooking utensils": [
+        {
+            "name": "spatula",
+            "isDamaged": true
+        },
+        {
+            "name": "pot",
+            "isDamaged": false
+        }
+    ],
+    "food items": [
+        {
+            "name": "chicken",
+            "portions": 1
+        },
+        {
+            "name": "lettuce",
+            "portions": 2
+        }
+    ],
+    "name": "User 1"
+}

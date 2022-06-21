@@ -1,0 +1,21 @@
+{
+  "cooking utensils": [
+    {
+      "name": "pan",
+      "isDamaged": false
+    },
+    {
+      "name": "bowl",
+      "isDamaged": true
+    }],
+  "food items": [
+    {
+      "name": "eggs",
+      "portions": 1
+    },
+    {
+      "name":"beef",
+      "portions": 2
+    }],
+  "name": "User 1"
+}
